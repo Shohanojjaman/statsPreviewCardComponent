@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap');
+
+*,
+::before,
+::after {
+    box-sizing: border-box;
+}
+
+* {
+    margin: 0;
+    font: inherit;
+}
+
+img,
+svg {
+    display: block;
+    max-width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+:root {
+    /* Color */
+    /* Primary Color */
+    --Very-dark-blue-mbg: hsl(233, 47%, 7%);
+    --Dark-desaturated-blue-cbg: hsl(244, 38%, 16%);
+    --Soft-violet-accent: hsl(277, 64%, 61%);
+
+    /* Neutral  */
+    --White: hsl(0, 0%, 100%);
+    --Slightly-transparent-white: hsla(0, 0%, 100%, 0.75);
+    --Slightly-transparent-white: hsla(0, 0%, 100%, 0.6);
+
+    /* Fonts */
+    --primary-fs: 15px;
+
+    --fw-regular: 400;
+    --fw-bold: 700;
+
+    --ff-inter: 'Inter', sans-serif;
+    --ff-lexend-deca: 'Lexend Deca', sans-serif;
+}
