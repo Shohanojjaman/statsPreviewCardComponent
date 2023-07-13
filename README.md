@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor - Stats Preview Card Component](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor - Stats Preview Card Component](https://www.frontendmentor.io/solutions/stats-preview-card-component-U8F_Kl3oyF)
 - Live Site URL: [Stats Preview Card Component](https://shohanojjaman.github.io/statsPreviewCardComponent/)
 
 ## My process
